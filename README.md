@@ -45,13 +45,14 @@ I recently completed a project focused on demystifying common HR metrics. The pr
 
 Snapshots of the Dashboard:
 
-            ![Image](https://github.com/user-attachments/assets/9f7f6d30-ab8d-48bf-a1aa-56bfe171a32d)
-	    
-	    ![Image](https://github.com/user-attachments/assets/7c48e289-8189-4d34-a0da-dadd29c8069c)
-     
-	    ![Image](https://github.com/user-attachments/assets/6cefba98-ef34-402c-a3b6-90d857b9f2b3)
-     
-	    ![Image](https://github.com/user-attachments/assets/af201137-fa48-414e-98f8-aee717b71ed3)            
+![image](https://github.com/user-attachments/assets/1838d679-93b8-4660-99b3-669c6b3731be)
+
+![image](https://github.com/user-attachments/assets/b277ccdd-68ad-4a29-9cc0-296f217f8ae4)
+
+![image](https://github.com/user-attachments/assets/31cbd85f-d6b4-46d1-810a-417309ebedd4)
+
+![image](https://github.com/user-attachments/assets/5297600d-3bb0-4b55-82e0-de227f16a4d5)
+
            
 #### Integration of Buttons, Custom Slicer Panel and Tooltip
 
@@ -64,7 +65,8 @@ Tooltip is used on the maps to give users a better understanding of the differen
 
 Snapshot of the tooltip
 
-	    <img width="724" alt="Image" src="https://github.com/user-attachments/assets/983d82b6-3a5f-444b-8946-549fb76c06fb" />
+![image](https://github.com/user-attachments/assets/c062e053-72ea-4965-8fbf-89c563af7ced)
+
 
 #### Cover page
 
