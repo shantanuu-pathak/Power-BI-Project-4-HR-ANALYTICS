@@ -46,13 +46,12 @@ I recently completed a project focused on demystifying common HR metrics. The pr
 Snapshots of the Dashboard:
 
             ![Image](https://github.com/user-attachments/assets/9f7f6d30-ab8d-48bf-a1aa-56bfe171a32d)
-
+	    
 	    ![Image](https://github.com/user-attachments/assets/7c48e289-8189-4d34-a0da-dadd29c8069c)
-
+     
 	    ![Image](https://github.com/user-attachments/assets/6cefba98-ef34-402c-a3b6-90d857b9f2b3)
-
-	    ![Image](https://github.com/user-attachments/assets/af201137-fa48-414e-98f8-aee717b71ed3)
-            
+     
+	    ![Image](https://github.com/user-attachments/assets/af201137-fa48-414e-98f8-aee717b71ed3)            
            
 #### Integration of Buttons, Custom Slicer Panel and Tooltip
 
